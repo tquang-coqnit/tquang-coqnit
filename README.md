@@ -18,7 +18,6 @@ Vietnamese 🇻🇳\
 - [ ] Get a nice and stable job. (working towrads it)
 - [ ] MAKE SOME FOOKING MONEY.
 
-🌱 What am I learning right now: Web scraping, Python (I'm turning multilingual)\
 💯 What am I good at: React/RN, Javascript, Flutter/Dart\
 🌐 Go visit my website (its very cool): [here](https://fowardslash.vercel.app/#/)\
 🍱 Also have a bento: [here](https://bento.me/wuangg)
