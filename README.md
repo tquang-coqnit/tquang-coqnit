@@ -8,7 +8,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ### I think I'm gonna go Full-stack
-Vietnamese 🇻🇳\
+Vietnamese 🇻🇳 / Saigoneer 🏙️\
 🏢 Intern @ Coqnit Pte Ltd\
 🎓 Education: 4th Year SE Student @ HUFLIT <sup>GPA 3.64 BTW</sup>\
 🇬🇧 English: IELTS 7.5 (R: 8.0, L: 8.0, W: 7.0, S: 6.5)\
