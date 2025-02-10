@@ -15,17 +15,9 @@ Vietnamese 🇻🇳 / Saigoneer 🏙️\
 🏢 Front-end Intern @ Coqnit Pte Ltd\
 🎓 Education: 4th Year SE Student @ HUFLIT <sup>GPA 3.60 BTW</sup>\
 🇬🇧 English: IELTS 7.5 (R: 8.0, L: 8.0, W: 7.0, S: 6.5)\
-🎯 Goals: 
-- [x] ~~Get IELTS 7.0+ (R,L,W,S at least 7.0).~~
-- [ ] Graduate with high distinction.
-- [ ] Get a nice and stable job.
-- [ ] MAKE SOME FOOKING MONEY.
-
 🌱 What am I learning right now: Back-end, Python (still), 日本語 (getting that sweet N5)\
 💯 What am I good at: React/RN, Javascript, Flutter/Dart\
 🌐 Go visit my website (its very cool): [here](https://fowardslash.vercel.app/#/)\
-🍱 Also have a bento: [here](https://bento.me/wuangg)\
-❤️‍🔥 Also check out my team: [very good friends](https://fowardslash.vercel.app/#/team)
 <hr>
 
 ### Stats
